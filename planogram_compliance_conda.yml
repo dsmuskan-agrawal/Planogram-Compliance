@@ -1,0 +1,12 @@
+name: planogram
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - conda-forge::matplotlib
+  - anaconda::seaborn
+  - conda=24.3.0
+  - poppler
+  - pdftotext
+prefix: C:\Users\Muskan.Agrawal\AppData\Local\anaconda3\envs\planogram

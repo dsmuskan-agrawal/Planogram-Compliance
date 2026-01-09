@@ -1,6 +1,6 @@
 # Planogram Compliance Check
 
-This application allows users to upload store product images as well as Planogram Compliant PDF, process them for Compliance check, perform product and placement similarity check, and give the output if the shelf product placement is following the planogram.
+This application allows users to upload Store product images as well as Planogram Compliant PDF, process them for Compliance check, perform product and placement similarity check, and give the output if the shelf product placement is following the planogram.
 
 ## Features
 
